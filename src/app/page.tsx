@@ -5,6 +5,7 @@ export default function Home() {
 		<>
 			<div className="w-full h-[100vh] flex flex-col items-center justify-center text-white text-3xl font-semibold text-center">
 				<h1 className="mb-4">gg</h1>
+				<GitHubButton />
 			</div>
 		</>
 	);

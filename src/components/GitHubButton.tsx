@@ -7,7 +7,7 @@ import { faGithub } from "@fortawesome/free-brands-svg-icons";
 export const GitHubButton = () => {
 	return (
 		<motion.a
-			href="https://github.com/jckli"
+			href="https://github.com/tristanma3"
 			target="_blank"
 			className="
             leading-[1.3] py-[9px] px-[12px] mr-[8px] mb-[8px] text-[20px] inline-block text-[#007bff] border-[#313338] border-solid border-[1px] 
