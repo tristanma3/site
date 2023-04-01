@@ -4,6 +4,7 @@ export const Navbar = (props: any) => {
 	const navigation = [
 		{ name: "# main", href: "/" },
 		{ name: "# projects", href: "/projects" },
+		{ name: "# misc", href: "/skills" },
 	];
 
 	return (
